@@ -29,6 +29,43 @@
 
 For an [overview of existing codegen and flavor requests, please visit the GitHub Projects](https://github.com/firasdib/Regex101/projects)
 
+## master
+"topics" : [
+       " github-pages " ,
+       " html-css-javascript " ,
+       " license " ,
+       " markdown-language " ,
+       " private-repository " ,
+       " readme-profile "
+    ],
+    config" : {
+       "content_type" : " json " ,
+       "insecure_ssl" : " 0 " ,
+       "url" : " https://api.github.com/repos/AriesTriputranto/regex/hook "
+    },
+    "updated_at
+    Lisensi MIT
+
+Hak Cipta (c) [2025] [AriesTriputranto]
+
+Dengan ini diberikan izin, tanpa dipungut biaya, kepada siapa pun yang memperoleh salinannya
+perangkat lunak ini dan berkas dokumentasi terkait ("Perangkat Lunak"), untuk menangani
+dalam Perangkat Lunak tanpa batasan, termasuk namun tidak terbatas pada hak
+untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual
+salinan Perangkat Lunak, dan untuk mengizinkan orang-orang yang menerima Perangkat Lunak tersebut
+diperkenankan melakukan hal tersebut, dengan tunduk pada ketentuan-ketentuan berikut:
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua
+salinan atau bagian penting dari Perangkat Lunak.
+
+PERANGKAT LUNAK INI DISEDIAKAN "SEBAGAIMANA ADANYA", TANPA JAMINAN APAPUN, TERSURAT MAUPUN
+TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN DAPAT DIPERDAGANGKAN,
+KESESUAIAN UNTUK TUJUAN TERTENTU DAN NONPELANGGARAN. DALAM KEADAAN APAPUN,
+PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS SEGALA KLAIM, KERUSAKAN ATAU GANGGUAN LAINNYA
+TANGGUNG JAWAB, BAIK DALAM TINDAKAN KONTRAK, GUGATAN ATAU LAINNYA, YANG TIMBUL DARI,
+DARI ATAU SEHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU TRANSAKSI LAINNYA DALAM
+PERANGKAT LUNAK.
+
 Sponsors
 ========
 
